@@ -1,0 +1,38 @@
+
+
+.message {
+    background-color: #040C18;
+    padding: 10px;
+}
+
+.block{
+    display: flex;
+}
+
+.image{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+.box{
+    border-radius: 10px;
+    padding: 10px;
+    color: white;
+    background-color: #0F5197;
+    margin-left: 20px;
+}
+
+.name{
+    font-weight: bold;
+    margin-bottom: 3px;
+}
+
+.massegeBox{
+    display: flex;
+}
+
+.time{
+    padding-left: 50px;
+    color: rgba(255, 255, 255, 0.5);
+}
